@@ -57,7 +57,7 @@ Below is a structured map of my certifications and their corresponding projects.
 
 ## 🌟 Personal Projects  
 
-- **Network Monitoring App** → Python-based tool for Networks monitoring.  
+- **NetSage**: [Network Monitoring App](https://github.com/HossamJa/NetSage-Network-Monitoring-Tool) → Python-based tool for Networks monitoring.  
 
 ---
 
