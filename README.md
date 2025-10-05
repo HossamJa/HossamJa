@@ -45,7 +45,7 @@ Below is a structured map of my certifications and their corresponding projects.
 ## 🎓 CS50 (Harvard) Projects
 
 ### 📘 CS50’s Introduction to Programming with Python  
-- Repo (Private for now) → contains **20+ Python apps** (will publish best projects in a public showcase repo soon).
+- CS50P Repo: [CS50P Journey: Python Problem Sets & NetSage](https://github.com/HossamJa/CS50P-Journey-Python-Problem-Sets-and-NetSage) → contains 20+ Python apps.
 
 ### 🔐 CS50’s Introduction to Cybersecurity  
 - Security labs and exercises (selected projects will be published).  
