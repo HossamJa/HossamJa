@@ -51,7 +51,7 @@ Below is a structured map of my certifications and their corresponding projects.
 - Security labs and exercises (selected projects will be published).  
 
 ### 🤖 CS50’s Introduction to AI with Python  
-- AI agents, search algorithms, machine learning models (selected projects coming soon).  
+- CS50AI Repo: [CS50 AI With Python Problem Set Journey](https://github.com/HossamJa/CS50-AI-Python-Problem-Set-Journey) → contains 12 programs (AI agents, search algorithms, machine learning models).  
 
 ---
 
