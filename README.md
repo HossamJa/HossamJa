@@ -44,6 +44,9 @@ Below is a structured map of my certifications and their corresponding projects.
 
 ## 🎓 CS50 (Harvard) Projects
 
+### 💻 CS50’s Introduction to Computer Science (CS50X)
+- CS50X Repo: [CS50x 2024 Problem Sets & Final Project](https://github.com/HossamJa/CS50X-Intro-to-Computre-Science) → All problem sets (C, Algorithms, Memory, Data Structures, Python, SQL, JavaScript/HTML/CSS, Falask) + Final Project completed.
+
 ### 📘 CS50’s Introduction to Programming with Python  
 - CS50P Repo: [CS50P Journey: Python Problem Sets & NetSage](https://github.com/HossamJa/CS50P-Journey-Python-Problem-Sets-and-NetSage) → contains 20+ Python apps.
 
