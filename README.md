@@ -60,7 +60,8 @@ Below is a structured map of my certifications and their corresponding projects.
 
 ## 🌟 Personal Projects  
 
-- **NetSage**: [Network Monitoring App](https://github.com/HossamJa/NetSage-Network-Monitoring-Tool) → Python-based tool for Networks monitoring.  
+- **NetSage**: [Network Monitoring App](https://github.com/HossamJa/NetSage-Network-Monitoring-Tool) → Python-based tool for Networks monitoring.
+-  **P.E.V.S**: [Physics Engine Validation Simulator](https://github.com/HossamJa/P.E.V.S-physics-engine-validation-simulator) → A physics-based simulation platform designed to evaluate propulsion and engine concepts against fundamental conservation laws.
 
 ---
 
