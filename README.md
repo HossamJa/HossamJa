@@ -45,7 +45,7 @@ Below is a structured map of my certifications and their corresponding projects.
 ## 🎓 CS50 (Harvard) Projects
 
 ### 💻 CS50’s Introduction to Computer Science (CS50X)
-- CS50X Repo: [CS50x 2024 Problem Sets & Final Project](https://github.com/HossamJa/CS50X-Intro-to-Computre-Science) → All problem sets (C, Algorithms, Memory, Data Structures, Python, SQL, JavaScript/HTML/CSS, Falask) + Final Project completed.
+- CS50X Repo: [CS50x 2025 Problem Sets & Final Project](https://github.com/HossamJa/CS50X-Intro-to-Computre-Science) → All problem sets (C, Algorithms, Memory, Data Structures, Python, SQL, JavaScript/HTML/CSS, Falask) + Final Project completed.
 
 ### 📘 CS50’s Introduction to Programming with Python  
 - CS50P Repo: [CS50P Journey: Python Problem Sets & NetSage](https://github.com/HossamJa/CS50P-Journey-Python-Problem-Sets-and-NetSage) → contains 20+ Python apps.
@@ -54,7 +54,10 @@ Below is a structured map of my certifications and their corresponding projects.
 - Security labs and exercises (selected projects will be published).  
 
 ### 🤖 CS50’s Introduction to AI with Python  
-- CS50AI Repo: [CS50 AI With Python Problem Set Journey](https://github.com/HossamJa/CS50-AI-Python-Problem-Set-Journey) → contains 12 programs (AI agents, search algorithms, machine learning models).  
+- CS50AI Repo: [CS50 AI With Python Problem Set Journey](https://github.com/HossamJa/CS50-AI-Python-Problem-Set-Journey) → contains 12 programs (AI agents, search algorithms, machine learning models).
+
+### 🗄️ CS50's Introduction to Databases with SQL
+- CS50SQL Repo: [CS50 Introduction to Databases Problem Sets](https://github.com/HossamJa/CS50-SQL-Probelm-Sets) → Contains All 7 problem sets (Querying & Data Retrieval, Joins & Relationships, Database Design & Schema Creation, CRUD, Performance & Optimization, SQLite, MySQL, PostgreSQL).
 
 ---
 
