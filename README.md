@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hossam Jamjama  
+# Hi, I’m Hossam Jamjama  
 
 🚀 Aspiring Cloud & DevOps Engineer | IT & Software Enthusiast | AI Learner | Passionate about Space & Technology  
 
@@ -58,6 +58,7 @@ Below is a structured map of my certifications and their corresponding projects.
 
 ### 🗄️ CS50's Introduction to Databases with SQL
 - CS50SQL Repo: [CS50 Introduction to Databases Problem Sets](https://github.com/HossamJa/CS50-SQL-Probelm-Sets) → Contains All 7 problem sets (Querying & Data Retrieval, Joins & Relationships, Database Design & Schema Creation, CRUD, Performance & Optimization, SQLite, MySQL, PostgreSQL).
+- Self-Learn Ledger DB [Final Project >>](https://github.com/HossamJa/Self-Learning-Ledger-DB) 
 
 ---
 
